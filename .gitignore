@@ -1,0 +1,11 @@
+BUILD
+compile_commands?json
+?mbed
+?clangd
+?cache
+mbed-os
+Grove_LCD_RGB_Backlight
+DigitDisplay
+DigitDisplay/DigitDisplay
+grove_lcd_rgb_backlight
+grove_lcd_rgb_backlight_v5
