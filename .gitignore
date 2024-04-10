@@ -9,3 +9,7 @@ DigitDisplay
 DigitDisplay/DigitDisplay
 grove_lcd_rgb_backlight
 grove_lcd_rgb_backlight_v5
+.mbed
+compile_commands.json
+.clangd
+.cache
